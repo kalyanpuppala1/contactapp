@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.signin-heading {
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.paragraph {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #a6a298;
+}
+
+.span-element {
+    color: #2984e6;
+}
+
+.email-header {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #656a6e;
+}
+
+.password-header {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #656a6e;
+}
+
+.signin-button {
+    width: 100%;
+    background-color: #359be8;
+    border-width: 0px;
+    height: 35px;
+    border-radius: 5px;
+    color: #ffffff;
+}
